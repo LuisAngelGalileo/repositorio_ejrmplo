@@ -1,0 +1,30 @@
+body{
+background:#FFC;
+	width: 70%;
+	min-width: 250px; 
+	margin: 0 auto;
+	
+}
+#uno{
+	text-align:center;
+}
+#uno a{
+	color:maroon;
+	
+}
+
+h1{
+	background-color:rgb(255,200,150);
+	border-color: #FFD700;
+	border-style:inset;
+	
+}
+h3{
+	color:rgb(100%,20%,0%);
+	background-color:rgb(255,200,150);
+	border-color:rgb(255,200,150);
+	border-style:solid;
+
+}
+
+
